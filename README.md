@@ -22,8 +22,7 @@ TBA
 
 ## :star2: Features
 
-- Responsiveness
-- Deliverability
+- TBA
 
 ## :books: Resources
 
