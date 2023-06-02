@@ -2,7 +2,7 @@
 
 ## :pencil: Description
 
-- An HTML Email created from scratch using with HTML and CSS for email development and digital marketing purposes.
+- An HTML Email created from scratch using HTML and CSS for email development and digital marketing purposes.
 - CSS is created inline within HTML due to the nature of email development.
 - Testing with Email on Acid (TBD).
 
@@ -12,7 +12,7 @@
 
 ### Preview
 
-TBA
+<img width="710" alt="HTML Email Preview" src="https://github.com/hbarry89/HTML-Email/assets/106551259/cb2c342e-c7fc-47fc-bee4-1b736c00d992">
 
 ## :wrench: Technologies Used
 
