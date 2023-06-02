@@ -29,5 +29,6 @@ TBA
 - [Tutorial](https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770) 
 - [Email on Acid](https://www.emailonacid.com/)
 - [Icons](https://www.alessioatzeni.com/metrize-icons/)
+- [Banner](https://www.canva.com/)
 
 <p align="center">Thank you for visiting! :ribbon:</p>
